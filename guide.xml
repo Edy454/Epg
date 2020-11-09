@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Azteca 7  (México)">
+    <display-name lang="es">AZTECA 7 HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/azteca_7-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20201108010000 -0600" stop="20201108050000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20201108050000 -0600" stop="20201108051500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Azteca 7</title>
+  </programme>
+  <programme start="20201108051500 -0600" stop="20201108053000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20201108053000 -0600" stop="20201108063000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201108063000 -0600" stop="20201108064500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Amigazazo</title>
+  </programme>
+  <programme start="20201108064500 -0600" stop="20201108070000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Bubu Dom</title>
+  </programme>
+  <programme start="20201108070000 -0600" stop="20201108071500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">El Reino Infantil</title>
+  </programme>
+  <programme start="20201108071500 -0600" stop="20201108073000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Molang</title>
+  </programme>
+  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Tiny Ones Transport Service</title>
+  </programme>
+  <programme start="20201108103000 -0600" stop="20201108113000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20201108113000 -0600" stop="20201108141500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Joe</title>
+  </programme>
+  <programme start="20201108141500 -0600" stop="20201108163000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Peter Pan</title>
+  </programme>
+  <programme start="20201108163000 -0600" stop="20201108184500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Piratas del Caribe 2</title>
+  </programme>
+  <programme start="20201108184500 -0600" stop="20201108211500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Piratas del Caribe 4</title>
+  </programme>
+  <programme start="20201108211500 -0600" stop="20201109000000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Los Piratas del Caribe 5</title>
+  </programme>
+  <programme start="20201109000000 -0600" stop="20201109020000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201109020000 -0600" stop="20201109040000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201109040000 -0600" stop="20201109051500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201109051500 -0600" stop="20201109053000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201109063000 -0600" stop="20201109064500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">El Reino Infantil</title>
+  </programme>
+  <programme start="20201109064500 -0600" stop="20201109070000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Molang</title>
+  </programme>
+  <programme start="20201109070000 -0600" stop="20201109073000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20201109073000 -0600" stop="20201109080000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20201109080000 -0600" stop="20201109083000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20201109083000 -0600" stop="20201109090000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20201109090000 -0600" stop="20201109100000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20201109100000 -0600" stop="20201109103000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20201109103000 -0600" stop="20201109110000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Mickey Mouse Mix Aventuras</title>
+  </programme>
+  <programme start="20201109110000 -0600" stop="20201109113000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">My Little Pony La magia</title>
+  </programme>
+  <programme start="20201109113000 -0600" stop="20201109120000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Transformers Rescue Bots</title>
+  </programme>
+  <programme start="20201109120000 -0600" stop="20201109130000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Power rangers ninja steel</title>
+  </programme>
+  <programme start="20201109130000 -0600" stop="20201109140000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Zak Storm</title>
+  </programme>
+  <programme start="20201109140000 -0600" stop="20201109150000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Alvin y las ardillas</title>
+  </programme>
+  <programme start="20201109150000 -0600" stop="20201109160000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20201109160000 -0600" stop="20201109163000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Recargado de Risa</title>
+  </programme>
+  <programme start="20201109163000 -0600" stop="20201109174500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Así en el barrio como en</title>
+  </programme>
+  <programme start="20201109174500 -0600" stop="20201109190000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Siempre tuya Acapulco</title>
+  </programme>
+  <programme start="20201109190000 -0600" stop="20201109204500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">9.1.1</title>
+  </programme>
+  <programme start="20201109204500 -0600" stop="20201109213000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Yo soy Betty la fea</title>
+  </programme>
+  <programme start="20201109213000 -0600" stop="20201109223000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Hasta que la plata nos separe</title>
+  </programme>
+  <programme start="20201109223000 -0600" stop="20201109233000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Fbi</title>
+  </programme>
+  <programme start="20201109233000 -0600" stop="20201110003000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Macgyver</title>
+  </programme>
+</tv>
