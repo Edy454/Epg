@@ -20,691 +20,697 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20201108010000 -0600" stop="20201108050000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Paid Programing</title>
-  </programme>
-  <programme start="20201108050000 -0600" stop="20201108051500 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Azteca 7</title>
-  </programme>
-  <programme start="20201108051500 -0600" stop="20201108053000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">RTC</title>
-  </programme>
-  <programme start="20201108053000 -0600" stop="20201108063000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124003000 -0600" stop="20201124040000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20201108063000 -0600" stop="20201108064500 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124040000 -0600" stop="20201124051500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201124051500 -0600" stop="20201124053000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201124053000 -0600" stop="20201124063000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201124063000 -0600" stop="20201124070000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Amigazazo</title>
   </programme>
-  <programme start="20201108064500 -0600" stop="20201108070000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Bubu Dom</title>
+  <programme start="20201124070000 -0600" stop="20201124073000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Vamos Pocoyo</title>
   </programme>
-  <programme start="20201108070000 -0600" stop="20201108071500 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">El Reino Infantil</title>
+  <programme start="20201124073000 -0600" stop="20201124080000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Vera y el Reino Arcoíris</title>
   </programme>
-  <programme start="20201108071500 -0600" stop="20201108073000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Molang</title>
+  <programme start="20201124080000 -0600" stop="20201124083000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Gigantosaurios</title>
   </programme>
-  <programme start="20201108073000 -0600" stop="20201108080000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Pocoyó</title>
-  </programme>
-  <programme start="20201108080000 -0600" stop="20201108083000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">44 Gatos</title>
-  </programme>
-  <programme start="20201108083000 -0600" stop="20201108090000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Rev &amp; Roll</title>
-  </programme>
-  <programme start="20201108090000 -0600" stop="20201108100000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Vampirina</title>
-  </programme>
-  <programme start="20201108100000 -0600" stop="20201108103000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Tiny Ones Transport Service</title>
-  </programme>
-  <programme start="20201108103000 -0600" stop="20201108113000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Doctora Juguetes</title>
-  </programme>
-  <programme start="20201108113000 -0600" stop="20201108141500 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Joe</title>
-  </programme>
-  <programme start="20201108141500 -0600" stop="20201108163000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Peter Pan</title>
-  </programme>
-  <programme start="20201108163000 -0600" stop="20201108184500 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Piratas del Caribe 2</title>
-  </programme>
-  <programme start="20201108184500 -0600" stop="20201108211500 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Piratas del Caribe 4</title>
-  </programme>
-  <programme start="20201108211500 -0600" stop="20201109000000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Los Piratas del Caribe 5</title>
-  </programme>
-  <programme start="20201109000000 -0600" stop="20201109020000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20201109020000 -0600" stop="20201109040000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20201109040000 -0600" stop="20201109051500 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20201109051500 -0600" stop="20201109053000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Especial de R.T.C</title>
-  </programme>
-  <programme start="20201109063000 -0600" stop="20201109064500 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">El Reino Infantil</title>
-  </programme>
-  <programme start="20201109064500 -0600" stop="20201109070000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Molang</title>
-  </programme>
-  <programme start="20201109070000 -0600" stop="20201109073000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Rev &amp; Roll</title>
-  </programme>
-  <programme start="20201109073000 -0600" stop="20201109080000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Plaza Sesamo</title>
-  </programme>
-  <programme start="20201109080000 -0600" stop="20201109083000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">44 Gatos</title>
-  </programme>
-  <programme start="20201109083000 -0600" stop="20201109090000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124083000 -0600" stop="20201124090000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">La casa de Mickey Mouse</title>
   </programme>
-  <programme start="20201109090000 -0600" stop="20201109100000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124090000 -0600" stop="20201124100000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">La Guardia del León</title>
   </programme>
-  <programme start="20201109100000 -0600" stop="20201109103000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124100000 -0600" stop="20201124110000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">MickeyAventuras sobre ruedas</title>
   </programme>
-  <programme start="20201109103000 -0600" stop="20201109110000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Mickey Mouse Mix Aventuras</title>
-  </programme>
-  <programme start="20201109110000 -0600" stop="20201109113000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124110000 -0600" stop="20201124113000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">My Little Pony La magia</title>
   </programme>
-  <programme start="20201109113000 -0600" stop="20201109120000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124113000 -0600" stop="20201124123000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Transformers Rescue Bots</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201109130000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Power rangers ninja steel</title>
+  <programme start="20201124123000 -0600" stop="20201124133000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Power Rangers Beast Morphers</title>
   </programme>
-  <programme start="20201109130000 -0600" stop="20201109140000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124133000 -0600" stop="20201124143000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Zak Storm</title>
   </programme>
-  <programme start="20201109140000 -0600" stop="20201109150000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124143000 -0600" stop="20201124153000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Alvin y las ardillas</title>
   </programme>
-  <programme start="20201109150000 -0600" stop="20201109160000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124153000 -0600" stop="20201124163000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Escandalosos</title>
   </programme>
-  <programme start="20201109160000 -0600" stop="20201109163000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124163000 -0600" stop="20201124170000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Recargado de Risa</title>
   </programme>
-  <programme start="20201109163000 -0600" stop="20201109174500 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Así en el barrio como en</title>
+  <programme start="20201124170000 -0600" stop="20201124180000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Grey's Anatomy</title>
   </programme>
-  <programme start="20201109174500 -0600" stop="20201109190000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Siempre tuya Acapulco</title>
+  <programme start="20201124180000 -0600" stop="20201124190000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Grey's Anatomy</title>
   </programme>
-  <programme start="20201109190000 -0600" stop="20201109204500 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124190000 -0600" stop="20201124200000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">9.1.1</title>
   </programme>
-  <programme start="20201109204500 -0600" stop="20201109213000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Yo soy Betty la fea</title>
+  <programme start="20201124200000 -0600" stop="20201124204500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">9.1.1 Lone Star</title>
   </programme>
-  <programme start="20201109213000 -0600" stop="20201109223000 -0600" channel="Canal Azteca 7  (México)">
-    <title lang="es">Hasta que la plata nos separe</title>
+  <programme start="20201124204500 -0600" stop="20201124223000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">The Good Doctor</title>
   </programme>
-  <programme start="20201109223000 -0600" stop="20201109233000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124223000 -0600" stop="20201124233000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Fbi</title>
   </programme>
-  <programme start="20201109233000 -0600" stop="20201110003000 -0600" channel="Canal Azteca 7  (México)">
+  <programme start="20201124233000 -0600" stop="20201125003000 -0600" channel="Canal Azteca 7  (México)">
     <title lang="es">Macgyver</title>
   </programme>
-  <programme start="20201108003000 -0600" stop="20201108010000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201125063000 -0600" stop="20201125064500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">El Reino Infantil</title>
+  </programme>
+  <programme start="20201125064500 -0600" stop="20201125070000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Molang</title>
+  </programme>
+  <programme start="20201125070000 -0600" stop="20201125073000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Rev &amp; Roll</title>
+  </programme>
+  <programme start="20201125073000 -0600" stop="20201125080000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Plaza Sesamo</title>
+  </programme>
+  <programme start="20201125080000 -0600" stop="20201125083000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20201125083000 -0600" stop="20201125090000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20201125090000 -0600" stop="20201125100000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20201125100000 -0600" stop="20201125103000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20201125103000 -0600" stop="20201125110000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Mickey Mouse Mix Aventuras</title>
+  </programme>
+  <programme start="20201125123000 -0600" stop="20201125133000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Power rangers ninja steel</title>
+  </programme>
+  <programme start="20201125180000 -0600" stop="20201125184500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Grey's Anatomy</title>
+  </programme>
+  <programme start="20201125184500 -0600" stop="20201125210000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Puebla vs. León En Vivo</title>
+  </programme>
+  <programme start="20201125210000 -0600" stop="20201125230000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Guadalajara vs. América En Vivo</title>
+  </programme>
+  <programme start="20201125230000 -0600" stop="20201126000000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Fbi</title>
+  </programme>
+  <programme start="20201124003000 -0600" stop="20201124040000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20201108010000 -0600" stop="20201108013000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Mamá</title>
-  </programme>
-  <programme start="20201108013000 -0600" stop="20201108020000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124040000 -0600" stop="20201124043000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20201108020000 -0600" stop="20201108043000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Nashville</title>
-  </programme>
-  <programme start="20201108043000 -0600" stop="20201108050000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124043000 -0600" stop="20201124050000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Especial de R.T.C</title>
   </programme>
-  <programme start="20201108050000 -0600" stop="20201108060000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124050000 -0600" stop="20201124063000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Infomerciales</title>
   </programme>
-  <programme start="20201108060000 -0600" stop="20201108070000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Los Caballeros del Zodiaco La</title>
-  </programme>
-  <programme start="20201108070000 -0600" stop="20201108073000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Blaze and the Monster Machine</title>
-  </programme>
-  <programme start="20201108073000 -0600" stop="20201108090000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">El Espectacular Spiderman</title>
-  </programme>
-  <programme start="20201108090000 -0600" stop="20201108103000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Dragon Ball GT</title>
-  </programme>
-  <programme start="20201108103000 -0600" stop="20201108124500 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Jem y los hologramas</title>
-  </programme>
-  <programme start="20201108124500 -0600" stop="20201108144500 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Triunfos robados otra vez</title>
-  </programme>
-  <programme start="20201108144500 -0600" stop="20201108164500 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Un papá genial</title>
-  </programme>
-  <programme start="20201108164500 -0600" stop="20201108190000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Red 2</title>
-  </programme>
-  <programme start="20201108190000 -0600" stop="20201108214500 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">007 Spectre</title>
-  </programme>
-  <programme start="20201108214500 -0600" stop="20201109000000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">La carrera de la muerte</title>
-  </programme>
-  <programme start="20201109000000 -0600" stop="20201109003000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Mamá</title>
-  </programme>
-  <programme start="20201109003000 -0600" stop="20201109040000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20201109040000 -0600" stop="20201109043000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20201109050000 -0600" stop="20201109063000 -0600" channel="Canal 5 de México (XHGC)">
-    <title lang="es">Infomerciales</title>
-  </programme>
-  <programme start="20201109063000 -0600" stop="20201109070000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124063000 -0600" stop="20201124070000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Thomas y sus amigos</title>
   </programme>
-  <programme start="20201109070000 -0600" stop="20201109073000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124070000 -0600" stop="20201124073000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Masha y el Oso</title>
   </programme>
-  <programme start="20201109073000 -0600" stop="20201109080000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124073000 -0600" stop="20201124080000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Rainbow Rangers</title>
   </programme>
-  <programme start="20201109080000 -0600" stop="20201109083000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124080000 -0600" stop="20201124083000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Ricky Zoom</title>
   </programme>
-  <programme start="20201109083000 -0600" stop="20201109090000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124083000 -0600" stop="20201124090000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Mi perro Pat</title>
   </programme>
-  <programme start="20201109090000 -0600" stop="20201109093000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124090000 -0600" stop="20201124093000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Power Players</title>
   </programme>
-  <programme start="20201109093000 -0600" stop="20201109100000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124093000 -0600" stop="20201124100000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">PAW Patrol</title>
   </programme>
-  <programme start="20201109100000 -0600" stop="20201109110000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124100000 -0600" stop="20201124110000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Danny Phantom</title>
   </programme>
-  <programme start="20201109110000 -0600" stop="20201109120000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124110000 -0600" stop="20201124120000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Avatar La Leyenda de Aang</title>
   </programme>
-  <programme start="20201109120000 -0600" stop="20201109130000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124120000 -0600" stop="20201124130000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">el chavo animado</title>
   </programme>
-  <programme start="20201109130000 -0600" stop="20201109140000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124130000 -0600" stop="20201124140000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">School of Rock</title>
   </programme>
-  <programme start="20201109140000 -0600" stop="20201109150000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124140000 -0600" stop="20201124150000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Henry Danger</title>
   </programme>
-  <programme start="20201109150000 -0600" stop="20201109160000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124150000 -0600" stop="20201124160000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Miraculous II</title>
   </programme>
-  <programme start="20201109160000 -0600" stop="20201109170000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124160000 -0600" stop="20201124170000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Bob Esponja</title>
   </programme>
-  <programme start="20201109170000 -0600" stop="20201109180000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124170000 -0600" stop="20201124180000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Victorious</title>
   </programme>
-  <programme start="20201109180000 -0600" stop="20201109193000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124180000 -0600" stop="20201124193000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Drake y Josh</title>
   </programme>
-  <programme start="20201109193000 -0600" stop="20201109203000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124193000 -0600" stop="20201124203000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Malcolm el de en medio</title>
   </programme>
-  <programme start="20201109203000 -0600" stop="20201109223000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124203000 -0600" stop="20201124223000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Me caigo de risa</title>
   </programme>
-  <programme start="20201109223000 -0600" stop="20201109233000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124223000 -0600" stop="20201124233000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">La ley y el orden UVE</title>
   </programme>
-  <programme start="20201109233000 -0600" stop="20201110000000 -0600" channel="Canal 5 de México (XHGC)">
+  <programme start="20201124233000 -0600" stop="20201125000000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">Gotham</title>
   </programme>
-  <programme start="20201108001700 -0600" stop="20201108004300 -0600" channel="Canal Disney Channel">
+  <programme start="20201125003000 -0600" stop="20201125010000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201125010000 -0600" stop="20201125013000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Estatus</title>
+  </programme>
+  <programme start="20201125013000 -0600" stop="20201125043000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201125043000 -0600" stop="20201125050000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20201125050000 -0600" stop="20201125063000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20201125063000 -0600" stop="20201125070000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Thomas y sus amigos</title>
+  </programme>
+  <programme start="20201125070000 -0600" stop="20201125073000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20201125073000 -0600" stop="20201125080000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Rainbow Rangers</title>
+  </programme>
+  <programme start="20201125080000 -0600" stop="20201125083000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Super Wings</title>
+  </programme>
+  <programme start="20201125083000 -0600" stop="20201125090000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20201125090000 -0600" stop="20201125093000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Power Players</title>
+  </programme>
+  <programme start="20201125093000 -0600" stop="20201125100000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PAW Patrol</title>
+  </programme>
+  <programme start="20201125100000 -0600" stop="20201125110000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Danny Phantom</title>
+  </programme>
+  <programme start="20201125110000 -0600" stop="20201125120000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Avatar La Leyenda de Aang</title>
+  </programme>
+  <programme start="20201125120000 -0600" stop="20201125130000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20201125130000 -0600" stop="20201125140000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">School of Rock</title>
+  </programme>
+  <programme start="20201125140000 -0600" stop="20201125150000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Henry Danger</title>
+  </programme>
+  <programme start="20201125150000 -0600" stop="20201125160000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Miraculous II</title>
+  </programme>
+  <programme start="20201125160000 -0600" stop="20201125170000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20201125170000 -0600" stop="20201125180000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Victorious</title>
+  </programme>
+  <programme start="20201125180000 -0600" stop="20201125193000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Drake y Josh</title>
+  </programme>
+  <programme start="20201125193000 -0600" stop="20201125203000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Malcolm el de en medio</title>
+  </programme>
+  <programme start="20201125203000 -0600" stop="20201125223000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Me caigo de risa</title>
+  </programme>
+  <programme start="20201125223000 -0600" stop="20201125233000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La ley y el orden UVE</title>
+  </programme>
+  <programme start="20201125233000 -0600" stop="20201126000000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Gotham</title>
+  </programme>
+  <programme start="20201124004700 -0600" stop="20201124011000 -0600" channel="Canal Disney Channel">
     <title lang="es">Acampados</title>
   </programme>
-  <programme start="20201108004300 -0600" stop="20201108010700 -0600" channel="Canal Disney Channel">
-    <title lang="es">Andi Mack</title>
-  </programme>
-  <programme start="20201108010700 -0600" stop="20201108013000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20201108013000 -0600" stop="20201108015300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gabby Duran Niñera de aliens</title>
-  </programme>
-  <programme start="20201108015300 -0600" stop="20201108021700 -0600" channel="Canal Disney Channel">
-    <title lang="es">Sydney como Max</title>
-  </programme>
-  <programme start="20201108021700 -0600" stop="20201108024000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Coop y Cami</title>
-  </programme>
-  <programme start="20201108024000 -0600" stop="20201108030300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Los Vecinos Green</title>
-  </programme>
-  <programme start="20201108030300 -0600" stop="20201108032500 -0600" channel="Canal Disney Channel">
-    <title lang="es">Hotel Transylvania</title>
-  </programme>
-  <programme start="20201108032500 -0600" stop="20201108034800 -0600" channel="Canal Disney Channel">
-    <title lang="es">Enredados otra vez La serie</title>
-  </programme>
-  <programme start="20201108034800 -0600" stop="20201108041100 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous Las aventuras de</title>
-  </programme>
-  <programme start="20201108041100 -0600" stop="20201108043300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-  </programme>
-  <programme start="20201108043300 -0600" stop="20201108045600 -0600" channel="Canal Disney Channel">
-    <title lang="es">Coop y Cami</title>
-  </programme>
-  <programme start="20201108045600 -0600" stop="20201108051900 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20201108051900 -0600" stop="20201108054200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-  </programme>
-  <programme start="20201108054200 -0600" stop="20201108060000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Hotel Transylvania</title>
-  </programme>
-  <programme start="20201108060000 -0600" stop="20201108062500 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20201108062500 -0600" stop="20201108072400 -0600" channel="Canal Disney Channel">
-    <title lang="es">Hotel Transylvania</title>
-  </programme>
-  <programme start="20201108072400 -0600" stop="20201108075800 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous Las aventuras de</title>
-  </programme>
-  <programme start="20201108075800 -0600" stop="20201108082300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Glitter Model</title>
-  </programme>
-  <programme start="20201108082300 -0600" stop="20201108085800 -0600" channel="Canal Disney Channel">
-    <title lang="es">Las aventuras enredadas de Ra</title>
-  </programme>
-  <programme start="20201108085800 -0600" stop="20201108092300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Hotel Transylvania La serie</title>
-  </programme>
-  <programme start="20201108092300 -0600" stop="20201108095900 -0600" channel="Canal Disney Channel">
-    <title lang="es">¡Vete ya, unicornio</title>
-  </programme>
-  <programme start="20201108095900 -0600" stop="20201108102600 -0600" channel="Canal Disney Channel">
-    <title lang="es">Amphibia</title>
-  </programme>
-  <programme start="20201108102600 -0600" stop="20201108105200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Los Vecinos Green</title>
-  </programme>
-  <programme start="20201108105200 -0600" stop="20201108110700 -0600" channel="Canal Disney Channel">
-    <title lang="es">Hotel Transylvania</title>
-  </programme>
-  <programme start="20201108110700 -0600" stop="20201108130400 -0600" channel="Canal Disney Channel">
-    <title lang="es">Sing</title>
-  </programme>
-  <programme start="20201108130400 -0600" stop="20201108132900 -0600" channel="Canal Disney Channel">
-    <title lang="es">Holly Hobbie</title>
-  </programme>
-  <programme start="20201108132900 -0600" stop="20201108140000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Holly Hobbie</title>
-  </programme>
-  <programme start="20201108140000 -0600" stop="20201108142900 -0600" channel="Canal Disney Channel">
-    <title lang="es">The Owl House ? La Casa Búho</title>
-  </programme>
-  <programme start="20201108142900 -0600" stop="20201108150100 -0600" channel="Canal Disney Channel">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-  </programme>
-  <programme start="20201108150100 -0600" stop="20201108152900 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gabby Duran Niñera de aliens</title>
-  </programme>
-  <programme start="20201108152900 -0600" stop="20201108160200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Sydney como Max</title>
-  </programme>
-  <programme start="20201108160200 -0600" stop="20201108162900 -0600" channel="Canal Disney Channel">
-    <title lang="es">Coop y Cami</title>
-  </programme>
-  <programme start="20201108162900 -0600" stop="20201108181700 -0600" channel="Canal Disney Channel">
-    <title lang="es">High School Musical</title>
-  </programme>
-  <programme start="20201108181700 -0600" stop="20201108201800 -0600" channel="Canal Disney Channel">
-    <title lang="es">High School Musical 2 (Sing A</title>
-  </programme>
-  <programme start="20201108201800 -0600" stop="20201108221100 -0600" channel="Canal Disney Channel">
-    <title lang="es">La fabulosa aventura de Sharp</title>
-  </programme>
-  <programme start="20201108221100 -0600" stop="20201108224000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous Las aventuras de</title>
-  </programme>
-  <programme start="20201108224000 -0600" stop="20201108231000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous Las aventuras de</title>
-  </programme>
-  <programme start="20201108231000 -0600" stop="20201108233700 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20201108233700 -0600" stop="20201109000300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20201109000300 -0600" stop="20201109002600 -0600" channel="Canal Disney Channel">
+  <programme start="20201124011000 -0600" stop="20201124013300 -0600" channel="Canal Disney Channel">
     <title lang="es">Jessie</title>
   </programme>
-  <programme start="20201109002600 -0600" stop="20201109005200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Acampados</title>
+  <programme start="20201124013300 -0600" stop="20201124015300 -0600" channel="Canal Disney Channel">
+    <title lang="es">Soy Luna</title>
   </programme>
-  <programme start="20201109005200 -0600" stop="20201109011600 -0600" channel="Canal Disney Channel">
-    <title lang="es">Andi Mack</title>
+  <programme start="20201124015300 -0600" stop="20201124021700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Jessie</title>
   </programme>
-  <programme start="20201109011600 -0600" stop="20201109013800 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gravity Falls</title>
+  <programme start="20201124021700 -0600" stop="20201124030400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Soy Luna</title>
   </programme>
-  <programme start="20201109013800 -0600" stop="20201109020200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gabby Duran Niñera de aliens</title>
+  <programme start="20201124030400 -0600" stop="20201124032700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
   </programme>
-  <programme start="20201109020200 -0600" stop="20201109022500 -0600" channel="Canal Disney Channel">
+  <programme start="20201124032700 -0600" stop="20201124035100 -0600" channel="Canal Disney Channel">
     <title lang="es">Sydney como Max</title>
   </programme>
-  <programme start="20201109022500 -0600" stop="20201109024800 -0600" channel="Canal Disney Channel">
-    <title lang="es">Coop y Cami</title>
+  <programme start="20201124035100 -0600" stop="20201124041400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
   </programme>
-  <programme start="20201109024800 -0600" stop="20201109031100 -0600" channel="Canal Disney Channel">
+  <programme start="20201124041400 -0600" stop="20201124043700 -0600" channel="Canal Disney Channel">
     <title lang="es">Los Vecinos Green</title>
   </programme>
-  <programme start="20201109031100 -0600" stop="20201109033300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Hotel Transylvania</title>
+  <programme start="20201124043700 -0600" stop="20201124045900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
   </programme>
-  <programme start="20201109033300 -0600" stop="20201109035600 -0600" channel="Canal Disney Channel">
-    <title lang="es">Enredados otra vez La serie</title>
-  </programme>
-  <programme start="20201109035600 -0600" stop="20201109041900 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous Las aventuras de</title>
-  </programme>
-  <programme start="20201109041900 -0600" stop="20201109044100 -0600" channel="Canal Disney Channel">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-  </programme>
-  <programme start="20201109044100 -0600" stop="20201109050500 -0600" channel="Canal Disney Channel">
-    <title lang="es">Coop y Cami</title>
-  </programme>
-  <programme start="20201109050500 -0600" stop="20201109052800 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20201109052800 -0600" stop="20201109060000 -0600" channel="Canal Disney Channel">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-  </programme>
-  <programme start="20201109060000 -0600" stop="20201109062500 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20201109062500 -0600" stop="20201109070000 -0600" channel="Canal Disney Channel">
+  <programme start="20201124045900 -0600" stop="20201124052200 -0600" channel="Canal Disney Channel">
     <title lang="es">Gravity Falls</title>
   </programme>
-  <programme start="20201109070000 -0600" stop="20201109080100 -0600" channel="Canal Disney Channel">
+  <programme start="20201124052200 -0600" stop="20201124054400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201124054400 -0600" stop="20201124060000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201124060000 -0600" stop="20201124062400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201124062400 -0600" stop="20201124065800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201124065800 -0600" stop="20201124075600 -0600" channel="Canal Disney Channel">
     <title lang="es">Los 7E</title>
   </programme>
-  <programme start="20201109080100 -0600" stop="20201109082700 -0600" channel="Canal Disney Channel">
+  <programme start="20201124075600 -0600" stop="20201124082200 -0600" channel="Canal Disney Channel">
     <title lang="es">Hotel Transylvania</title>
   </programme>
-  <programme start="20201109082700 -0600" stop="20201109085900 -0600" channel="Canal Disney Channel">
+  <programme start="20201124082200 -0600" stop="20201124090000 -0600" channel="Canal Disney Channel">
     <title lang="es">Amphibia</title>
   </programme>
-  <programme start="20201109085900 -0600" stop="20201109092500 -0600" channel="Canal Disney Channel">
+  <programme start="20201124090000 -0600" stop="20201124092600 -0600" channel="Canal Disney Channel">
     <title lang="es">Las aventuras enredadas..</title>
   </programme>
-  <programme start="20201109092500 -0600" stop="20201109101900 -0600" channel="Canal Disney Channel">
+  <programme start="20201124092600 -0600" stop="20201124102700 -0600" channel="Canal Disney Channel">
     <title lang="es">Miraculous</title>
   </programme>
-  <programme start="20201109101900 -0600" stop="20201109112000 -0600" channel="Canal Disney Channel">
+  <programme start="20201124102700 -0600" stop="20201124110000 -0600" channel="Canal Disney Channel">
     <title lang="es">The Owl House ? La Casa Búho</title>
   </programme>
-  <programme start="20201109112000 -0600" stop="20201109115900 -0600" channel="Canal Disney Channel">
+  <programme start="20201124110000 -0600" stop="20201124112600 -0600" channel="Canal Disney Channel">
     <title lang="es">Hotel Transylvania</title>
   </programme>
-  <programme start="20201109115900 -0600" stop="20201109122800 -0600" channel="Canal Disney Channel">
+  <programme start="20201124112600 -0600" stop="20201124120000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania La serie</title>
+  </programme>
+  <programme start="20201124120000 -0600" stop="20201124122800 -0600" channel="Canal Disney Channel">
     <title lang="es">Miraculous</title>
   </programme>
-  <programme start="20201109122800 -0600" stop="20201109125900 -0600" channel="Canal Disney Channel">
+  <programme start="20201124122800 -0600" stop="20201124130000 -0600" channel="Canal Disney Channel">
     <title lang="es">Miraculous</title>
   </programme>
-  <programme start="20201109125900 -0600" stop="20201109143400 -0600" channel="Canal Disney Channel">
-    <title lang="es">Zombies 2</title>
+  <programme start="20201124130000 -0600" stop="20201124132900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Zack y Cody Gemelos en acció</title>
   </programme>
-  <programme start="20201109143400 -0600" stop="20201109145600 -0600" channel="Canal Disney Channel">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  <programme start="20201124132900 -0600" stop="20201124135700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Sunny, entre estrellas</title>
   </programme>
-  <programme start="20201109145600 -0600" stop="20201109160200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Coop y Cami</title>
-  </programme>
-  <programme start="20201109160200 -0600" stop="20201109163000 -0600" channel="Canal Disney Channel">
-    <title lang="es">The Owl House ? La Casa Búho</title>
-  </programme>
-  <programme start="20201109163000 -0600" stop="20201109165900 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20201109165900 -0600" stop="20201109180200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Bia</title>
-  </programme>
-  <programme start="20201109180200 -0600" stop="20201109183200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Sydney como Max</title>
-  </programme>
-  <programme start="20201109183200 -0600" stop="20201109190100 -0600" channel="Canal Disney Channel">
-    <title lang="es">Acampados</title>
-  </programme>
-  <programme start="20201109190100 -0600" stop="20201109193300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Encuéntrame en París</title>
-  </programme>
-  <programme start="20201109193300 -0600" stop="20201109200300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Miraculous</title>
-  </programme>
-  <programme start="20201109200300 -0600" stop="20201109203400 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gabby Duran Niñera de aliens</title>
-  </programme>
-  <programme start="20201109203400 -0600" stop="20201109210300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gabby Duran Niñera de aliens</title>
-  </programme>
-  <programme start="20201109210300 -0600" stop="20201109213300 -0600" channel="Canal Disney Channel">
-    <title lang="es">Gravity Falls</title>
-  </programme>
-  <programme start="20201109213300 -0600" stop="20201109220200 -0600" channel="Canal Disney Channel">
-    <title lang="es">Star vs. Las Fuerzas del Mal</title>
-  </programme>
-  <programme start="20201109220200 -0600" stop="20201109222900 -0600" channel="Canal Disney Channel">
-    <title lang="es">Acampados</title>
-  </programme>
-  <programme start="20201109222900 -0600" stop="20201109225700 -0600" channel="Canal Disney Channel">
+  <programme start="20201124135700 -0600" stop="20201124142600 -0600" channel="Canal Disney Channel">
     <title lang="es">Jessie</title>
   </programme>
-  <programme start="20201109225700 -0600" stop="20201109232400 -0600" channel="Canal Disney Channel">
-    <title lang="es">Encuéntrame en París</title>
-  </programme>
-  <programme start="20201109232400 -0600" stop="20201109234900 -0600" channel="Canal Disney Channel">
+  <programme start="20201124142600 -0600" stop="20201124150100 -0600" channel="Canal Disney Channel">
     <title lang="es">Andi Mack</title>
   </programme>
-  <programme start="20201109234900 -0600" stop="20201110010600 -0600" channel="Canal Disney Channel">
-    <title lang="es">Liv y Maddie</title>
+  <programme start="20201124150100 -0600" stop="20201124153100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
   </programme>
-  <programme start="20201108000500 -0600" stop="20201108014500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">París en la mira</title>
+  <programme start="20201124153100 -0600" stop="20201124162400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Bia</title>
   </programme>
-  <programme start="20201108014500 -0600" stop="20201108021500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Alto! Frontera</title>
+  <programme start="20201124162400 -0600" stop="20201124172000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
   </programme>
-  <programme start="20201108021500 -0600" stop="20201108030500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Las 9 caras de Jane</title>
+  <programme start="20201124172000 -0600" stop="20201124180100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
   </programme>
-  <programme start="20201108030500 -0600" stop="20201108035500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20201124180100 -0600" stop="20201124183000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Sydney como Max</title>
+  </programme>
+  <programme start="20201124183000 -0600" stop="20201124185900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201124185900 -0600" stop="20201124193100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201124193100 -0600" stop="20201124195900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201124195900 -0600" stop="20201124202900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gabby Duran Niñera de aliens</title>
+  </programme>
+  <programme start="20201124202900 -0600" stop="20201124205700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201124205700 -0600" stop="20201124212400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201124212400 -0600" stop="20201124215900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201124215900 -0600" stop="20201124222800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201124222800 -0600" stop="20201124225900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201124225900 -0600" stop="20201124232800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201124232800 -0600" stop="20201124235400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201124235400 -0600" stop="20201125014200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Zack y Cody Gemelos en acció</title>
+  </programme>
+  <programme start="20201125014200 -0600" stop="20201125020600 -0600" channel="Canal Disney Channel">
+    <title lang="es">Acampados</title>
+  </programme>
+  <programme start="20201125020600 -0600" stop="20201125023100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20201125023100 -0600" stop="20201125034200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Soy Luna</title>
+  </programme>
+  <programme start="20201125034200 -0600" stop="20201125040500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201125040500 -0600" stop="20201125042800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Enredados otra vez La serie</title>
+  </programme>
+  <programme start="20201125042800 -0600" stop="20201125045000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los 7E</title>
+  </programme>
+  <programme start="20201125045000 -0600" stop="20201125051200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201125051200 -0600" stop="20201125053400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201125053400 -0600" stop="20201125060000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201125060000 -0600" stop="20201125062400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous Las aventuras de</title>
+  </programme>
+  <programme start="20201125062400 -0600" stop="20201125065200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201125065200 -0600" stop="20201125070700 -0600" channel="Canal Disney Channel">
+    <title lang="es">¡Vete ya, unicornio</title>
+  </programme>
+  <programme start="20201125070700 -0600" stop="20201125072300 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los 7E</title>
+  </programme>
+  <programme start="20201125072300 -0600" stop="20201125074100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Mickey Mouse</title>
+  </programme>
+  <programme start="20201125074100 -0600" stop="20201125080700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201125080700 -0600" stop="20201125082400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201125082400 -0600" stop="20201125085200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Amphibia</title>
+  </programme>
+  <programme start="20201125085200 -0600" stop="20201125090700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201125090700 -0600" stop="20201125092500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Enredados otra vez La serie</title>
+  </programme>
+  <programme start="20201125092500 -0600" stop="20201125101100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Miraculous</title>
+  </programme>
+  <programme start="20201125101100 -0600" stop="20201125102700 -0600" channel="Canal Disney Channel">
+    <title lang="es">¡Vete ya, unicornio</title>
+  </programme>
+  <programme start="20201125102700 -0600" stop="20201125105600 -0600" channel="Canal Disney Channel">
+    <title lang="es">The Owl House ? La Casa Búho</title>
+  </programme>
+  <programme start="20201125105600 -0600" stop="20201125112600 -0600" channel="Canal Disney Channel">
+    <title lang="es">Calle Dálmatas 101</title>
+  </programme>
+  <programme start="20201125112600 -0600" stop="20201125115500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Andi Mack</title>
+  </programme>
+  <programme start="20201125115500 -0600" stop="20201125134200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Una chihuahua de B. Hills 3</title>
+  </programme>
+  <programme start="20201125134200 -0600" stop="20201125144000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Bia</title>
+  </programme>
+  <programme start="20201125144000 -0600" stop="20201125145700 -0600" channel="Canal Disney Channel">
+    <title lang="es">¡Vete ya, unicornio</title>
+  </programme>
+  <programme start="20201125145700 -0600" stop="20201125152800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201125152800 -0600" stop="20201125155900 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201125155900 -0600" stop="20201125162800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201125162800 -0600" stop="20201125165800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coop y Cami</title>
+  </programme>
+  <programme start="20201125165800 -0600" stop="20201125173800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Bia</title>
+  </programme>
+  <programme start="20201125173800 -0600" stop="20201125175600 -0600" channel="Canal Disney Channel">
+    <title lang="es">Los Vecinos Green</title>
+  </programme>
+  <programme start="20201125175600 -0600" stop="20201125181100 -0600" channel="Canal Disney Channel">
+    <title lang="es">Star vs. Las Fuerzas del Mal</title>
+  </programme>
+  <programme start="20201125181100 -0600" stop="20201125200000 -0600" channel="Canal Disney Channel">
+    <title lang="es">Coco</title>
+  </programme>
+  <programme start="20201125200000 -0600" stop="20201125211500 -0600" channel="Canal Disney Channel">
+    <title lang="es">Ardys Playlist</title>
+  </programme>
+  <programme start="20201125211500 -0600" stop="20201125214700 -0600" channel="Canal Disney Channel">
+    <title lang="es">Disney Channel Sing Along</title>
+  </programme>
+  <programme start="20201125214700 -0600" stop="20201125223800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Bia</title>
+  </programme>
+  <programme start="20201125223800 -0600" stop="20201125225600 -0600" channel="Canal Disney Channel">
+    <title lang="es">Hotel Transylvania</title>
+  </programme>
+  <programme start="20201125225600 -0600" stop="20201125232800 -0600" channel="Canal Disney Channel">
+    <title lang="es">Encuéntrame en París</title>
+  </programme>
+  <programme start="20201125232800 -0600" stop="20201125235400 -0600" channel="Canal Disney Channel">
+    <title lang="es">Gravity Falls</title>
+  </programme>
+  <programme start="20201125235400 -0600" stop="20201126013200 -0600" channel="Canal Disney Channel">
+    <title lang="es">Una chihuahua de B. Hills 3</title>
+  </programme>
+  <programme start="20201124011000 -0600" stop="20201124024500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Intervención</title>
+  </programme>
+  <programme start="20201124024500 -0600" stop="20201124033500 -0600" channel="Canal A&amp;E (México)">
     <title lang="es">60 dias preso en Narcolandia</title>
   </programme>
-  <programme start="20201108035500 -0600" stop="20201108044500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20201108044500 -0600" stop="20201108051000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20201108051000 -0600" stop="20201108060000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20201108060000 -0600" stop="20201108065000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Dr. Pie</title>
-  </programme>
-  <programme start="20201108065000 -0600" stop="20201108074000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201108074000 -0600" stop="20201108083000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201108083000 -0600" stop="20201108092000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Las 9 caras de Jane</title>
-  </programme>
-  <programme start="20201108092000 -0600" stop="20201108101000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Mi vida con sindrome de Down</title>
-  </programme>
-  <programme start="20201108101000 -0600" stop="20201108110000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">60 dias preso en Narcolandia</title>
-  </programme>
-  <programme start="20201108110000 -0600" stop="20201108115000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20201108115000 -0600" stop="20201108124000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20201108124000 -0600" stop="20201108133000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20201108133000 -0600" stop="20201108142000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20201108142000 -0600" stop="20201108151000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20201108151000 -0600" stop="20201108160000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Los hermanos menéndez</title>
-  </programme>
-  <programme start="20201108160000 -0600" stop="20201108165000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Palabra de asesino</title>
-  </programme>
-  <programme start="20201108165000 -0600" stop="20201108172000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201108172000 -0600" stop="20201108174500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Cam Alert</title>
-  </programme>
-  <programme start="20201108174500 -0600" stop="20201108185500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201108185500 -0600" stop="20201108210000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Pelotón</title>
-  </programme>
-  <programme start="20201108210000 -0600" stop="20201108212500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201108212500 -0600" stop="20201108215500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201108215500 -0600" stop="20201108222000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Cam Alert</title>
-  </programme>
-  <programme start="20201108222000 -0600" stop="20201108224500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Court Cam Acción Judicial</title>
-  </programme>
-  <programme start="20201108224500 -0600" stop="20201108233500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Acusado ¿Culpable o inocente</title>
-  </programme>
-  <programme start="20201108233500 -0600" stop="20201109000500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201109000500 -0600" stop="20201109003000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20201109003000 -0600" stop="20201109014000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201109014000 -0600" stop="20201109023000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20201109023000 -0600" stop="20201109032000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20201109032000 -0600" stop="20201109041000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Los hermanos menéndez</title>
-  </programme>
-  <programme start="20201109041000 -0600" stop="20201109050000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Mi vida con sindrome de Down</title>
-  </programme>
-  <programme start="20201109050000 -0600" stop="20201109060000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201109060000 -0600" stop="20201109065500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201109065500 -0600" stop="20201109074500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20201109074500 -0600" stop="20201109081000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Cam Alert</title>
-  </programme>
-  <programme start="20201109081000 -0600" stop="20201109090000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Dr. Pie</title>
-  </programme>
-  <programme start="20201109090000 -0600" stop="20201109095000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Mi vida con sindrome de Down</title>
-  </programme>
-  <programme start="20201109095000 -0600" stop="20201109104000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Palabra de asesino</title>
-  </programme>
-  <programme start="20201109104000 -0600" stop="20201109113000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20201109113000 -0600" stop="20201109122000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Los hermanos menéndez</title>
-  </programme>
-  <programme start="20201109122000 -0600" stop="20201109131000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20201109131000 -0600" stop="20201109140000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Palabra de asesino</title>
-  </programme>
-  <programme start="20201109140000 -0600" stop="20201109145000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20201124033500 -0600" stop="20201124043000 -0600" channel="Canal A&amp;E (México)">
     <title lang="es">Lo mejor de policias en Alaska</title>
   </programme>
-  <programme start="20201109145000 -0600" stop="20201109154000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20201109154000 -0600" stop="20201109161000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Alto! Frontera</title>
-  </programme>
-  <programme start="20201109161000 -0600" stop="20201109163500 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20201124043000 -0600" stop="20201124050000 -0600" channel="Canal A&amp;E (México)">
     <title lang="es">Court Cam Acción Judicial</title>
   </programme>
-  <programme start="20201109163500 -0600" stop="20201109172500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20201109172500 -0600" stop="20201109190000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20201124050000 -0600" stop="20201124060000 -0600" channel="Canal A&amp;E (México)">
     <title lang="es">Acumuladores compulsivos</title>
   </programme>
-  <programme start="20201109190000 -0600" stop="20201109193000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20201124060000 -0600" stop="20201124070000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Dr. Pie</title>
+  </programme>
+  <programme start="20201124070000 -0600" stop="20201124075500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20201124075500 -0600" stop="20201124084500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Las 9 caras de Jane</title>
+  </programme>
+  <programme start="20201124084500 -0600" stop="20201124091500 -0600" channel="Canal A&amp;E (México)">
     <title lang="es">Court Cam Acción Judicial</title>
   </programme>
-  <programme start="20201109193000 -0600" stop="20201109211000 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">París en la mira</title>
+  <programme start="20201124091500 -0600" stop="20201124100500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Top Dog</title>
   </programme>
-  <programme start="20201109211000 -0600" stop="20201109220000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20201124100500 -0600" stop="20201124114000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Fragmentos de un demente</title>
+  </programme>
+  <programme start="20201124114000 -0600" stop="20201124123000 -0600" channel="Canal A&amp;E (México)">
     <title lang="es">La vida pasada de mi hijo</title>
   </programme>
-  <programme start="20201109220000 -0600" stop="20201109225000 -0600" channel="Canal A&amp;E (México)">
+  <programme start="20201124123000 -0600" stop="20201124132000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Cazadores de fantasmas</title>
+  </programme>
+  <programme start="20201124132000 -0600" stop="20201124141000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">60 días preso el experimento</title>
+  </programme>
+  <programme start="20201124141000 -0600" stop="20201124150000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Top Dog</title>
+  </programme>
+  <programme start="20201124150000 -0600" stop="20201124155000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Top Dog</title>
+  </programme>
+  <programme start="20201124155000 -0600" stop="20201124164000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Máxima seguridad</title>
+  </programme>
+  <programme start="20201124164000 -0600" stop="20201124173000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Crímenes no resueltos</title>
+  </programme>
+  <programme start="20201124173000 -0600" stop="20201124182000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">La vida de Gotti</title>
+  </programme>
+  <programme start="20201124182000 -0600" stop="20201124185000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Alto! Frontera</title>
+  </programme>
+  <programme start="20201124185000 -0600" stop="20201124211000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Zona de Miedo</title>
+  </programme>
+  <programme start="20201124211000 -0600" stop="20201124220000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">La vida de Gotti</title>
+  </programme>
+  <programme start="20201124220000 -0600" stop="20201124222500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20201124222500 -0600" stop="20201124225000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Alto! Frontera</title>
+  </programme>
+  <programme start="20201124225000 -0600" stop="20201125003500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">John Wick</title>
+  </programme>
+  <programme start="20201125225000 -0600" stop="20201126003500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">John Wick</title>
+  </programme>
+  <programme start="20201126003500 -0600" stop="20201126012500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">La vida de Gotti</title>
+  </programme>
+  <programme start="20201126012500 -0600" stop="20201126021500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Cazadores de fantasmas</title>
+  </programme>
+  <programme start="20201126021500 -0600" stop="20201126030500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Top Dog</title>
+  </programme>
+  <programme start="20201126030500 -0600" stop="20201126035500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Top Dog</title>
+  </programme>
+  <programme start="20201126035500 -0600" stop="20201126044500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Máxima seguridad</title>
+  </programme>
+  <programme start="20201126044500 -0600" stop="20201126051000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20201126051000 -0600" stop="20201126060000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20201126060000 -0600" stop="20201126070000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Las 9 caras de Jane</title>
+  </programme>
+  <programme start="20201126070000 -0600" stop="20201126075500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20201126075500 -0600" stop="20201126084500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Crímenes no resueltos</title>
+  </programme>
+  <programme start="20201126084500 -0600" stop="20201126093500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">60 días preso el experimento</title>
+  </programme>
+  <programme start="20201126093500 -0600" stop="20201126102500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Top Dog</title>
+  </programme>
+  <programme start="20201126102500 -0600" stop="20201126105000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20201126105000 -0600" stop="20201126112000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Alto! Frontera</title>
+  </programme>
+  <programme start="20201126112000 -0600" stop="20201126121000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Cazadores de fantasmas</title>
+  </programme>
+  <programme start="20201126121000 -0600" stop="20201126130000 -0600" channel="Canal A&amp;E (México)">
     <title lang="es">Famosos y fantasmas</title>
   </programme>
-  <programme start="20201109225000 -0600" stop="20201110004500 -0600" channel="Canal A&amp;E (México)">
-    <title lang="es">La Profecía</title>
+  <programme start="20201126130000 -0600" stop="20201126135000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Máxima seguridad</title>
+  </programme>
+  <programme start="20201126135000 -0600" stop="20201126144000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Top Dog</title>
+  </programme>
+  <programme start="20201126144000 -0600" stop="20201126153000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">60 días preso el experimento</title>
+  </programme>
+  <programme start="20201126153000 -0600" stop="20201126160000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Alto! Frontera</title>
+  </programme>
+  <programme start="20201126160000 -0600" stop="20201126162500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20201126162500 -0600" stop="20201126171500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Acusado culpable o inocente</title>
+  </programme>
+  <programme start="20201126171500 -0600" stop="20201126180500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Lo mejor de policias en Alaska</title>
+  </programme>
+  <programme start="20201126180500 -0600" stop="20201126185500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">La vida de Gotti</title>
+  </programme>
+  <programme start="20201126185500 -0600" stop="20201126192500 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Cam Alert</title>
+  </programme>
+  <programme start="20201126192500 -0600" stop="20201126211000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">John Wick</title>
+  </programme>
+  <programme start="20201126211000 -0600" stop="20201126220000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">La vida de Gotti</title>
+  </programme>
+  <programme start="20201126220000 -0600" stop="20201126225000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20201126225000 -0600" stop="20201127005000 -0600" channel="Canal A&amp;E (México)">
+    <title lang="es">Un día para sobrevivir</title>
   </programme>
 </tv>
